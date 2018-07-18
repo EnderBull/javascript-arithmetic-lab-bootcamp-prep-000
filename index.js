@@ -23,3 +23,9 @@ function inc(n){
   console.log(n)
   return(n)
 }
+
+function dec(n){
+  n -= 10
+  console.log(n)
+  return(n)
+}
