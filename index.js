@@ -40,3 +40,5 @@ function preserveDecimal(n){
   parseFloat(n)
   return(n)
 }
+
+preserveDecimal('2.222')
