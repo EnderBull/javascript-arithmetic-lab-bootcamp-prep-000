@@ -19,13 +19,13 @@ function divide(a,b){
 }
 
 function inc(n){
-  n += 9
+  n++
   console.log(n)
   return(n)
 }
 
 function dec(n){
-  n -= 9
+  n--
   console.log(n)
   return(n)
 }
